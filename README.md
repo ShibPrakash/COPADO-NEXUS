@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shibprakash-copado-nexus-badge.png)](https://mseep.ai/app/shibprakash-copado-nexus)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Copado-Nexus-00C3EF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Copado Nexus" />
   <img src="https://img.shields.io/badge/MCP-Protocol-7C3AED?style=for-the-badge&logo=json&logoColor=white" alt="MCP Protocol" />
